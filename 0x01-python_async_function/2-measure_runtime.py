@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 '''measures the total execution time for wait_n(n, max_delay)
 '''
-import asyncio import run
+import asyncio
 import time 
 
 
